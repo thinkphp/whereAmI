@@ -1,0 +1,14 @@
+   html,body{background:#666;color:#000;}
+   #doc{background:#fff;border:1em solid #fff;-moz-border-radius:5px;font-family:calibri,helvetica,arial,sans-serif;}
+   h1{font-size: 300%;padding-bottom: 0px;color: #000;text-transform:capitalize;text-align: left;margin-left: 0px}
+   #ft {color: #ccc;}
+   #bd{height: 400px}
+   #container {position:relative;width:350px;height:300px;}
+   #f{position: absolute;left:9.58%;top:25%;z-index:9999;}
+   form {border:1px solid #fff;-moz-border-radius:10px;-webkit-border-radius:10px;background:transparent; color:#fff;width:20em;margin:1em 0;font-weight:bold;padding:1em}
+   form label{float: left;width: 7em;}
+   form div{overflow: hidden;padding: .2em;}
+   form #s{cursor:pointer;border:1px solid #999;padding:3px;-moz-border-radius:4px;background:#eee;-webkit-border-radius:4px;border-radius: 4px}
+   form #s:hover,input[type="submit"]:focus { border-color:#333;background:#ddd; }
+   form #maptype {border: 1px solid #fff;}
+   form input[type=text] {border:1px solid #fff;background:#fff}
